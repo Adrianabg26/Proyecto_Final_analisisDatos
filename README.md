@@ -3,7 +3,7 @@
 
 **Resumen del Proyecto**
 
-Este repositorio contiene un proyecto completo de análisis de datos sobre el uso del sistema de bicicletas compartidas "Citi Bike", en la ciudad de Nueva York. El objetivo principal es analizar los patrones de uso, el comportamiento de los diferentes tipos de usuarios y las zonas de mayor demanda a través de un conjunto de procedimientos que abarcan desde la limpieza y transformación hasta la visualización y la creación de un dashboard operativo.
+Este repositorio contiene un proyecto completo del análisis de datos sobre el uso del sistema de bicicletas compartidas "Citi Bike", en la ciudad de Nueva York. El objetivo principal es analizar los patrones de uso, el comportamiento de los diferentes tipos de usuarios y las zonas de mayor demanda a través de un conjunto de procedimientos que abarcan desde la limpieza y transformación hasta la visualización y la creación de un dashboard operativo.
 
 **¡IMPORTANTE!** Para un análisis detallado de los hallazgos y conclusiones, por favor, consulte el **Informe completo del análisis.**
 
