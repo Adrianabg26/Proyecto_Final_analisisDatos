@@ -22,6 +22,7 @@ Contiene los datasets utilizados.
 
 
 **/notebooks/:** 
+
 Contiene los cuadernos de Jupyter Notebook con todo el proceso en Python.
 
     01-Exploracion_Inicial.ipynb: Carga y combinación de los datos brutos.
@@ -31,14 +32,17 @@ Contiene los cuadernos de Jupyter Notebook con todo el proceso en Python.
     03-Analisis_Exploratorio.ipynb: Análisis exploratorio, estadístico y visualización de los datos.
 
 **/dashboard/:** 
+
 Contiene el dashboard operativo final.
 
     Dashboard_CitiBike.xlsx: Archivo de Excel con las tablas dinámicas, gráficos y slicers interactivos.
 
 **/images/:** 
+
 Contiene las imágenes utilizadas en el informe completo del análisis.
 
 INFORME_ANALISIS.md:
+
 El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
 
 **Cómo Utilizar**
