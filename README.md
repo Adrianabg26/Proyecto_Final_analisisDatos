@@ -41,9 +41,7 @@ Contiene el dashboard operativo final.
 
 Contiene las imágenes utilizadas en el informe completo del análisis.
 
-INFORME_ANALISIS.md:
-
-El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
+INFORME_ANALISIS.md: El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
 
 **Cómo Utilizar**
 
