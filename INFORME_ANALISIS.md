@@ -29,7 +29,7 @@ El objetivo principal se centra en transformar datos brutos en insights accionab
 
 -----------------------------------
 
-3. **Metodología y herramientas**
+## 3. **Metodología y herramientas**
    
 El proyecto se ha desarrollado siguiendo un flujo de trabajo estándar de análisis de datos:
 
@@ -49,7 +49,7 @@ Dashboard: Microsoft Excel (Tablas Dinámicas, Gráficos Dinámicos, Slicers).
 
 -----------------------------------
 
-4. **Proceso de Datos (ETL)**
+## 4. **Proceso de Datos (ETL)**
    
 4.1. *Fuentes de Datos*
 Se utilizaron dos conjuntos de datos distintos:
@@ -75,7 +75,7 @@ month: Mes del viaje.
 
 -----------------------------------
 
-5. **Análisis Exploratorio y Hallazgos Clave**
+## 5. **Análisis Exploratorio y Hallazgos Clave**
    
 5.1. Perfil y comportamiento de usuario
 Conclusión: El sistema es utilizado mayoritariamente por miembros (86%), lo que indica una fuerte base de clientes recurrentes.
@@ -111,7 +111,7 @@ Evidencia: La matriz de correlación muestra una fuerte correlación positiva (>
 
 -----------------------------------
 
-6. **Dashboard operativo en Excel**
+## 6. **Dashboard operativo en Excel**
    
 Se ha desarrollado un dashboard interactivo en Excel que consolida los hallazgos principales.
 ![Dashboard](../images/Dashboard.png)
@@ -124,7 +124,7 @@ Visualizaciones clave: Incluye gráficos de barras, circulares y de texto que pr
 
 -----------------------------------
 
-7. **Conclusiones y recomendaciones de negocio**
+## 7. **Conclusiones y recomendaciones de negocio**
    
 * Segmentación de marketing: Dado el claro perfil de ocio de los usuarios casuales, se recomienda crear campañas de marketing específicas para turistas (pases diarios, rutas recomendadas) y promocionarlas en las estaciones cercanas a parques y puntos de interés.
 * Optimización de operaciones: La empresa debe planificar el reequilibrio de bicicletas basándose en los dos patrones de demanda: reforzar la disponibilidad en distritos de oficinas durante las horas punta de los días laborables y en zonas de ocio durante el mediodía de los fines de semana.
@@ -132,7 +132,7 @@ Visualizaciones clave: Incluye gráficos de barras, circulares y de texto que pr
 
 -----------------------------------
 
-8. **Estructura del Repositorio**
+## 8. **Estructura del Repositorio**
    
 /data/: Contiene los datasets brutos y procesados.
 
