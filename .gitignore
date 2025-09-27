@@ -1,0 +1,8 @@
+# Ignorar la carpeta de datos brutos
+Data/
+
+# Ignorar la carpeta de Dashboard
+Dashboard/Dasboard.xlsx
+
+# Ignorar archivos temporales de Office
+~$*/Data
