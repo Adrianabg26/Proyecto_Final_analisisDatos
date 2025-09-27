@@ -14,7 +14,8 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) exhaustivo sobre
 
 
 Los hallazgos principales se han consolidado en un dashboard operativo e interactivo en Excel, diseñado para facilitar la toma de decisiones estratégicas. El análisis concluye que el sistema sirve a dos perfiles de usuario distintos (miembros para "commuting" y casuales para ocio) con patrones temporales y geográficos muy definidos, lo que ofrece oportunidades claras para la optimización de operaciones y marketing.
------------------------------------
+
+
 2. **Objetivos del proyecto**
    
 El objetivo principal se centra en transformar datos brutos en insights accionables, respondiendo a las siguientes preguntas de negocio:
