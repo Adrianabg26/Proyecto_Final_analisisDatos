@@ -162,11 +162,11 @@ Componentes:
 
 ## 8. **Estructura del Repositorio**
    
-/data/: Contiene los datasets brutos y procesados. Necesario descargar 
+/data/: Contiene los datasets brutos y procesados. Debido a su elevado tamaño, se precisa descargar en el siguiente enlace [Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link) 
 
-/notebooks/: Contiene los cuadernos de Jupyter con todo el proceso de exploración, limpieza y análisis.
+/Notebooks/: Contiene los cuadernos de Jupyter con todo el proceso de exploración, limpieza y análisis.
 
-/dashboard/: Contiene el archivo final de Excel con el dashboard operativo.
+/dashboard/: Contiene el archivo final de Excel con el dashboard operativo. Necesario descargar en el siguiente enlace[Dashboard](https://drive.google.com/drive/folders/1HXElsvJg10hyON47JMm9_ko03PBcuxh?usp=drive_link)  
 
 /images/: Contiene las imágenes del utlizadas para el informe
 
