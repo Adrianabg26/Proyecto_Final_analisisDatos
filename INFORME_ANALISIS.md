@@ -166,7 +166,7 @@ Componentes:
 
 /Notebooks/: Contiene los cuadernos de Jupyter con todo el proceso de exploración, limpieza y análisis.
 
-/dashboard/: Contiene el archivo final de Excel con el dashboard operativo. Necesario descargar en el siguiente enlace[Dashboard](https://drive.google.com/drive/folders/1HXElsvJg10hyON47JMm9_ko03PBcuxh?usp=drive_link)  
+/dashboard/: Contiene el archivo final de Excel con el dashboard operativo. Necesario descargar en el siguiente enlace [Dashboard](https://docs.google.com/spreadsheets/d/1fZQe407SR3TEP5_kAI54w4ymeN4Y349T/edit?usp=drive_link&ouid=100986343674660134397&rtpof=true&sd=true) 
 
 /images/: Contiene las imágenes del utlizadas para el informe
 
