@@ -61,7 +61,7 @@ El proyecto se ha desarrollado siguiendo un flujo de trabajo estándar de análi
 
 ## 4. **Proceso de Datos (ETL)**
    
-*4.1. Fuentes de Datos*
+4.1. Fuentes de Datos
 
 Se utilizaron dos conjuntos de datos distintos:
 
@@ -69,7 +69,7 @@ Se utilizaron dos conjuntos de datos distintos:
   
 * Datos de estaciones: Información de las estaciones (ID, nombre, coordenadas) obtenida de la fuente de datos oficial en vivo para asegurar la máxima actualidad.
 
-*4.2. Limpieza y Transformación*
+4.2. Limpieza y Transformación
 
 El proceso de limpieza fue exhaustivo para garantizar la calidad del dataset final:
 
@@ -81,7 +81,7 @@ El proceso de limpieza fue exhaustivo para garantizar la calidad del dataset fin
 
 * Filtrado lógico: Se eliminaron los viajes atípicos (duración menor a 1 minuto o mayor a 24 horas) y los registros duplicados basados en el ride_id para evitar distorsiones en el análisis. También se eliminaron columnas que no aportaban información relevante para el analisis.
 
-*4.3. Creación de nuevas características*
+4.3. Creación de nuevas características
 
 Se crearon nuevas columnas para facilitar el análisis:
 
