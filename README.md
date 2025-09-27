@@ -52,7 +52,7 @@ Informe_Analisis.md: El informe detallado con todos los hallazgos, interpretacio
 
 🔗 **Puedes descargarlos desde el siguiente enlace:** [Descargar Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
 
-   Una vez descargado, colócalos en la carpeta principal del proyecto para que el código pueda encontrarlos y funcionar correctamente.
+   Una vez descargados, colócalos en la carpeta principal del proyecto para que el código pueda encontrarlos y funcionar correctamente.
 
 
 * Dashboard: 
