@@ -52,7 +52,7 @@ Informe_Analisis.md: El informe detallado con todos los hallazgos, interpretacio
 
 🔗 **Puedes descargarlos desde el siguiente enlace:** [Descargar Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
 
-Una vez descargado, colócalos en la carpeta principal del proyecto para que el código pueda encontrarlos y funcionar correctamente.
+   Una vez descargado, colócalos en la carpeta principal del proyecto para que el código pueda encontrarlos y funcionar correctamente.
 
 
 * Dashboard: 
@@ -60,7 +60,7 @@ Una vez descargado, colócalos en la carpeta principal del proyecto para que el 
 
 🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dashboard](https://drive.google.com/drive/folders/1HXElsv-Jg10hyON47JMm9_ko03PBcuxh?usp=drive_link)
 
-Aquí encontrarás el entregable final interactivo que contiene un resumen visual de las conclusiones más importantes.
+   Aquí encontrarás el entregable final interactivo que contiene un resumen visual de las conclusiones más importantes.
 
 
 * Análisis en Python: 
