@@ -54,12 +54,14 @@ Dataset:
 
 Una vez descargado, colócalo en la carpeta principal del proyecto para que el código pueda encontrarlo y funcionar correctamente.
 
+
 Dashboard: 
 *El archivo de Excel que contiene el Dashboard, al igual que ocurre con los datos brutos, es demasiado grande para incluirlo en este repositorio.*
 
-🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dashboard](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
+🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dashboard](https://drive.google.com/drive/folders/1HXElsv-Jg10hyON47JMm9_ko03PBcuxh?usp=drive_link)
 
 Aquí encontrarás el entregable final interactivo que contiene un resumen visual de las conclusiones más importantes.
+
 
 Análisis en Python: 
 Para replicar el análisis, se recomienda ejecutar los notebooks en el orden numérico establecido.
