@@ -156,7 +156,7 @@ Componentes:
   
 * Optimización de operaciones: La empresa debe planificar el reequilibrio de bicicletas basándose en los dos patrones de demanda: reforzar la disponibilidad en distritos de oficinas durante las horas punta de los días laborables y en zonas de ocio durante el mediodía de los fines de semana.
   
-* Gestión de la Flota: El análisis demuestra que las bicicletas eléctricas se usan para viajes más largos. Se recomienda aumentar su disponibilidad en estaciones que son puntos de partida de las rutas recreativas más populares.
+* Gestión de la flota: El análisis demuestra que las bicicletas eléctricas se usan para viajes más largos. Se recomienda aumentar su disponibilidad en estaciones que son puntos de partida de las rutas recreativas más populares.
 
 -----------------------------------
 
