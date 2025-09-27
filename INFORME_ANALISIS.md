@@ -2,6 +2,7 @@
 **Análisis Exploratorio de Datos y Dashboard del Sistema Citi Bike de Nueva York**
 
 Autor: Adriana Blanco
+
 Fecha: septiembre de 2025
 
 **Proyecto: Proyecto final del Máster en Data Analytics**
