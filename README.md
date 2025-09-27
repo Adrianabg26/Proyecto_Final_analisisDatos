@@ -48,11 +48,11 @@ Informe_Analisis.md: El informe detallado con todos los hallazgos, interpretacio
 **Cómo Utilizar**
 
 * Dataset:
-*Los archivos que contiene los datos brutos son demasiado grandes para ser incluido en este repositorio.*
+*Los archivos que contiene los brutos del proyecto son demasiados grandes para ser incluidos en este repositorio.*
 
-🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
+🔗 **Puedes descargarlos desde el siguiente enlace:** [Descargar Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
 
-Una vez descargado, colócalo en la carpeta principal del proyecto para que el código pueda encontrarlo y funcionar correctamente.
+Una vez descargado, colócalos en la carpeta principal del proyecto para que el código pueda encontrarlos y funcionar correctamente.
 
 
 * Dashboard: 
