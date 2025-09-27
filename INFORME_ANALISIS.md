@@ -1,12 +1,12 @@
 
-**Análisis Exploratorio de Datos y Dashboard Operativo del Sistema Citi Bike de Nueva York**
+**Análisis Exploratorio de Datos y Dashboard del Sistema Citi Bike de Nueva York**
 
 Autor: Adriana Blanco
 Fecha: septiembre de 2025
 
 **Proyecto: Proyecto final del Máster en Data Analytics**
 
-1. **Resumen**
+1. **Resumen del Proyecto**
 Este proyecto presenta un análisis exploratorio de datos (EDA) exhaustivo sobre el uso del sistema de bicicletas compartidas Citi Bike en Nueva York. A partir de datos brutos de viajes y estaciones, se ha ejecutado un pipeline de datos completo que incluye la limpieza, transformación y enriquecimiento de la información. El análisis posterior, que combina técnicas descriptivas, estadísticas y de visualización, ha permitido identificar patrones de uso clave, segmentar el comportamiento de los usuarios y determinar los epicentros geográficos de la demanda.
 
 Los hallazgos principales se han consolidado en un dashboard operativo e interactivo en Excel, diseñado para facilitar la toma de decisiones estratégicas. El análisis concluye que el sistema sirve a dos perfiles de usuario distintos (miembros para "commuting" y casuales para ocio) con patrones temporales y geográficos muy definidos, lo que ofrece oportunidades claras para la optimización de operaciones y marketing.
