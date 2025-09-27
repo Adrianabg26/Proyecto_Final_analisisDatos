@@ -37,9 +37,7 @@ Contiene el dashboard operativo final.
 
     Dashboard_CitiBike.xlsx: Archivo de Excel con las tablas dinámicas, gráficos y slicers interactivos.
 
-**/images/:** 
-
-Contiene las imágenes utilizadas en el informe completo del análisis.
+**/images/:** Contiene las imágenes utilizadas en el informe completo del análisis.
 
 INFORME_ANALISIS.md: El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
 
