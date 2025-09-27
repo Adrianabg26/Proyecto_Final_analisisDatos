@@ -162,7 +162,7 @@ Componentes:
 
 ## 8. **Estructura del Repositorio**
    
-/data/: Contiene los datasets brutos y procesados.
+/data/: Contiene los datasets brutos y procesados. Necesario descargar 
 
 /notebooks/: Contiene los cuadernos de Jupyter con todo el proceso de exploración, limpieza y análisis.
 
