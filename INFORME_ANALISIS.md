@@ -26,7 +26,9 @@ El objetivo principal se centra en transformar datos brutos en insights accionab
 ¿Cuáles son los patrones de demanda temporales (diarios, semanales)?
 ¿Dónde se concentra geográficamente la demanda de bicicletas?
 ¿Qué relaciones existen entre las variables numéricas como la duración, la hora y la ubicación de los viajes?
+
 -----------------------------------
+
 3. **Metodología y herramientas**
    
 El proyecto se ha desarrollado siguiendo un flujo de trabajo estándar de análisis de datos:
@@ -37,12 +39,16 @@ Análisis Exploratorio de Datos (EDA): Investigación de los datos mediante esta
 Creación de Dashboard: Presentación de los hallazgos en una herramienta interactiva.
 Generación de informe: Documentación del proceso y las conclusiones.
 
+-----------------------------------
+
 **Herramientas utilizadas:**
 
 Análisis y ETL: Python, Jupyter Notebook, Pandas, NumPy.
 Visualización (en Python): Matplotlib, Seaborn, Geopandas.
 Dashboard: Microsoft Excel (Tablas Dinámicas, Gráficos Dinámicos, Slicers).
+
 -----------------------------------
+
 4. **Proceso de Datos (ETL)**
    
 4.1. *Fuentes de Datos*
@@ -66,7 +72,9 @@ trip_duration_minutes: Duración del viaje en minutos.
 start_hour: Hora de inicio del viaje.
 day_of_week: Día de la semana del viaje.
 month: Mes del viaje.
+
 -----------------------------------
+
 5. **Análisis Exploratorio y Hallazgos Clave**
    
 5.1. Perfil y comportamiento de usuario
@@ -100,7 +108,9 @@ Conclusión: Los viajes son geográficamente locales, y la duración es independ
 ![Matriz de correlacion variables numéricas](../images/matriz_correlacion.png)
 
 Evidencia: La matriz de correlación muestra una fuerte correlación positiva (>0.8) entre las coordenadas de inicio y fin, validando la naturaleza local de los trayectos. A su vez, la correlación casi nula entre la duración, la hora y las coordenadas indica que estas variables son independientes.
+
 -----------------------------------
+
 6. **Dashboard operativo en Excel**
    
 Se ha desarrollado un dashboard interactivo en Excel que consolida los hallazgos principales.
@@ -111,13 +121,17 @@ Componentes:
 KPIs Dinámicos: Muestran en tiempo real el total de viajes, la duración promedio (general y por tipo de usuario) y el número de estaciones, actualizándose según los filtros aplicados.
 Filtros interactivos (Slicers): Permiten segmentar todo el dashboard por día de la semana, tipo de usuario y tipo de bicicleta.
 Visualizaciones clave: Incluye gráficos de barras, circulares y de texto que presentan los análisis de patrones temporales, de usuario y de rutas más populares.
+
 -----------------------------------
+
 7. **Conclusiones y recomendaciones de negocio**
    
 * Segmentación de marketing: Dado el claro perfil de ocio de los usuarios casuales, se recomienda crear campañas de marketing específicas para turistas (pases diarios, rutas recomendadas) y promocionarlas en las estaciones cercanas a parques y puntos de interés.
 * Optimización de operaciones: La empresa debe planificar el reequilibrio de bicicletas basándose en los dos patrones de demanda: reforzar la disponibilidad en distritos de oficinas durante las horas punta de los días laborables y en zonas de ocio durante el mediodía de los fines de semana.
 * Gestión de la Flota: El análisis demuestra que las bicicletas eléctricas se usan para viajes más largos. Se recomienda aumentar su disponibilidad en estaciones que son puntos de partida de las rutas recreativas más populares.
+
 -----------------------------------
+
 8. **Estructura del Repositorio**
    
 /data/: Contiene los datasets brutos y procesados.
