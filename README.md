@@ -9,7 +9,9 @@ Este repositorio contiene un proyecto completo de análisis de datos sobre el us
 
 **Estructura del Repositorio**
 
-/data/: Contiene los datasets utilizados.
+/data/: 
+
+Contiene los datasets utilizados.
     /datos brutos/
     /processed/: 
         (trips_final_for_analysis.csv) Dataset final y limpio utilizado para el análisis y el dashboard.
@@ -36,7 +38,7 @@ INFORME_ANALISIS.md: El informe detallado con todos los hallazgos, interpretacio
 **Cómo Utilizar**
 
 Dataset:
-Los archivos de datos brutos (`nombre_del_archivo_grande.csv`) son demasiado grandes para ser incluido en este repositorio.
+Los archivos que contiene los datos brutos son demasiado grandes para ser incluido en este repositorio.
 
 🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dataset](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
 
@@ -46,12 +48,21 @@ Análisis en Python:
 Para replicar el análisis, se recomienda ejecutar los notebooks en el orden numérico establecido.
 
 Dashboard: 
-El archivo de Excel en la carpeta /dashboard/ es el entregable final interactivo y contiene un resumen visual de las conclusiones más importantes.
+El archivo de Excel que contiene el Dashboard, al igual que ocurre con los datos brutos, es demasiado grande para incluirlo en este repositorio.
+
+🔗 **Puedes descargarlo desde el siguiente enlace:** [Descargar Dashboard](https://drive.google.com/drive/folders/1eYg0GjoU0vn4PW7DkdBGfIgYvUYH4rei?usp=drive_link)
+
+Aquí encontrarás el entregable final interactivo que contiene un resumen visual de las conclusiones más importantes.
 
 **Herramientas utilizadas**
+
 Lenguaje: Python 
 
-**Librerías Principales:** Pandas, NumPy, Matplotlib, Seaborn
+**Librerías Principales:** 
 
-**Dashboarding:** Microsoft Excel
+Pandas, NumPy, Matplotlib, Seaborn
+
+**Dashboarding:** 
+
+Microsoft Excel
 
