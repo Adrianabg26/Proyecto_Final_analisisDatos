@@ -7,7 +7,7 @@ Este repositorio contiene un proyecto completo del análisis de datos sobre el u
 
 **¡IMPORTANTE!** Para un análisis detallado de los hallazgos y conclusiones, por favor, consulte el **Informe completo del análisis.**
 
-**Estructura del repositorio**
+**Estructura del Repositorio**
 
 **/data/:** 
 
