@@ -9,17 +9,20 @@ Este repositorio contiene un proyecto completo de análisis de datos sobre el us
 
 **Estructura del Repositorio**
 
-/data/: 
+**/data/:** 
 
 Contiene los datasets utilizados.
+   
     /datos brutos/
+   
     /processed/: 
         (trips_final_for_analysis.csv) Dataset final y limpio utilizado para el análisis y el dashboard.
         (trips_cleaned_and_merged.csv) como punto de control intermedio en el proceso de limpieza de datos.
         (trips_raw_combined.csv) combinación en un único fichero de los archivos .csv
 
 
-/notebooks/: Contiene los cuadernos de Jupyter Notebook con todo el proceso en Python.
+**/notebooks/:** 
+Contiene los cuadernos de Jupyter Notebook con todo el proceso en Python.
 
     01-Exploracion_Inicial.ipynb: Carga y combinación de los datos brutos.
 
@@ -27,13 +30,16 @@ Contiene los datasets utilizados.
 
     03-Analisis_Exploratorio.ipynb: Análisis exploratorio, estadístico y visualización de los datos.
 
-/dashboard/: Contiene el dashboard operativo final.
+**/dashboard/:** 
+Contiene el dashboard operativo final.
 
     Dashboard_CitiBike.xlsx: Archivo de Excel con las tablas dinámicas, gráficos y slicers interactivos.
 
-/images/: Contiene las imágenes utilizadas en el informe completo del análisis.
+**/images/:** 
+Contiene las imágenes utilizadas en el informe completo del análisis.
 
-INFORME_ANALISIS.md: El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
+INFORME_ANALISIS.md:
+El informe detallado con todos los hallazgos, interpretaciones y recomendaciones del proyecto.
 
 **Cómo Utilizar**
 
